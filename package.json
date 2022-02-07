@@ -1,0 +1,19 @@
+{
+  "name": "lol_voice",
+  "version": "1.0.0",
+  "description": "this app sucks rn",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
